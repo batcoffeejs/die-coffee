@@ -1,0 +1,12 @@
+{
+  "name": "die-coffee",
+  "description": "die-coffee",
+  "version": "0.0.1",
+  "dependencies": {
+    "coffee-script": "^1.12.6",
+    "diet": "^v0.9.26",
+    "diet-cookies": "^0.2.0",
+    "diet-static": "^2.2.0",
+    "ect": "^0.5.9"
+  }
+}
